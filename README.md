@@ -19,7 +19,7 @@
 
 <body>
 
-    <div id="clock">8:10:45</div>
+    <div id="clock">9:10:45</div>
  
 
     <script src="clock2.js"></script>
